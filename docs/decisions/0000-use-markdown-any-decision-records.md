@@ -2,25 +2,14 @@
 
 ## Context and Problem Statement
 
-We want to record any decisions made in this project independent whether decisions concern the architecture ("architectural decision record"), the code, or other fields.
-Which format and structure should these records follow?
+I want to accurately and efficiently record architectural decisions related to my visa application system.
 
 ## Considered Options
 
-* [MADR](https://adr.github.io/madr/) 3.0.0 – The Markdown Any Decision Records
-* [Michael Nygard's template](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions) – The first incarnation of the term "ADR"
-* [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) – The Y-Statements
-* Other templates listed at <https://github.com/joelparkerhenderson/architecture_decision_record>
-* Formless – No conventions for file format and structure
+* The Markdown Any Decision Records 3.0.0 - [MADR](https://adr.github.io/madr/)
+* "Lightweight" ADR, adhering to the template created by Michael Nygard - [ADR](https://adr.github.io/)
+* No formal rules or guidelines regarding the organisation or layout
 
 ## Decision Outcome
 
-Chosen option: "MADR 3.0.0", because
-
-* Implicit assumptions should be made explicit.
-  Design documentation is important to enable people understanding the decisions later on.
-  See also [A rational design process: How and why to fake it](https://doi.org/10.1109/TSE.1986.6312940).
-* MADR allows for structured capturing of any decision.
-* The MADR format is lean and fits our development style.
-* The MADR structure is comprehensible and facilitates usage & maintenance.
-* The MADR project is vivid.
+Chosen option: "The Markdown Any Decision Records 3.0.0", because MADR allows me to record architecture decision records in detail and with structure, without adding unnecessary complexitity, unlike the ADR template. Also MADR is much more fitting for the task than no formal rules as MADR has a predefined template with clear sections, making the architecture decision recording process efficient and consistent.
