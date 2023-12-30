@@ -1,4 +1,4 @@
-# Chosen Approach to Architecture Decision Records
+# Use Markdown Any Decision Records
 
 ## Context and Problem Statement
 
