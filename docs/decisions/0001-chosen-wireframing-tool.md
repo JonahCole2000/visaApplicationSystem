@@ -1,7 +1,6 @@
 # Chosen Wireframing Tool
 
-* Status: proposed
-* Date: 2023-12-30
+* Date: 2023-10-10
 
 ## Context and Problem Statement
 
