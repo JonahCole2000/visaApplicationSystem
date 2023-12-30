@@ -1,7 +1,6 @@
 # Chosen Web Server
 
-* Status: proposed
-* Date: 2023-12-30
+* Date: 2023-15-10
 
 ## Context and Problem Statement
 
