@@ -1,7 +1,6 @@
 # Chosen Architectural Style
 
-* Status: proposed
-* Date: 2024-01-01
+* Date: 03-11-2023
 
 ## Context and Problem Statement
 
