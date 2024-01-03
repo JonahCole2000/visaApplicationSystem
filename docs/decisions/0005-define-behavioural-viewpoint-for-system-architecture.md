@@ -1,7 +1,7 @@
 # Define Behavioural Viewpoint for System Architecture
 
 * Status: proposed
-* Date: 12-11-2023
+* Date: 2024-01-03
 
 ## Context and Problem Statement
 
