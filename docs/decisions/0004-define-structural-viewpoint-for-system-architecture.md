@@ -1,7 +1,7 @@
 # Define Structural Viewpoint for System Architecture
 
 * Status: proposed
-* Date: 2024-01-03
+* Date: 12-11-2023
 
 ## Context and Problem Statement
 
