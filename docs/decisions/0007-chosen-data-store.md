@@ -1,7 +1,6 @@
 # Chosen Data Store
 
-* Status: proposed
-* Date: 2024-01-03
+* Date: 24-11-2023
 
 ## Context and Problem Statement
 
