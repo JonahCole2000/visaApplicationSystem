@@ -1,7 +1,7 @@
 # Correspondence Rules
 
 * Status: proposed
-* Date: 2024-01-03
+* Date: 13-11-2023
 
 ## Considered Options
 
