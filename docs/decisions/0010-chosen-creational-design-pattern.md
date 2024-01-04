@@ -1,7 +1,6 @@
 # Chosen Creational Design Pattern
 
-* Status: proposed
-* Date: 2024-01-04
+* Date: 28-12-2023
 
 ## Context and Problem Statement
 
