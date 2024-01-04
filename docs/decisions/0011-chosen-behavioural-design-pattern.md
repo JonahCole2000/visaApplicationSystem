@@ -1,7 +1,6 @@
 # Chosen Behavioural Design Pattern
 
-* Status: proposed
-* Date: 2024-01-04
+* Date: 02-01-2024
 
 ## Context and Problem Statement
 
