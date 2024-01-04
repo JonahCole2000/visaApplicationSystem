@@ -1,7 +1,6 @@
 # Inclusion of Security Considerations in System Architecture
 
-* Status: proposed
-* Date: 2024-01-04
+* Date: 20-12-2023
 
 ## Context and Problem Statement
 
